@@ -35,14 +35,14 @@ The rendering pipeline processes target data through several distinct quantitati
 
 | Target | Visual Output | Target | Visual Output |
 | :--- | :---: | :--- | :---: |
-| **Andromeda Galaxy (M31)** | <img src="RGB_Andromeda_Galaxy_M31.png" width="220"> | **Bode's Galaxy (M81)** | <img src="RGB_Bode's_Galaxy_M81.png" width="220"> |
-| **Crab Nebula (M1)** | <img src="RGB_Crab_Nebula_M1.png" width="220"> | **Dumbbell Nebula (M27)** | <img src="RGB_Dumbbell_Nebula_M27.png" width="220"> |
-| **Globular Cluster M15** | <img src="RGB_Globular_Cluster_M15.png" width="220"> | **Hercules Cluster (M13)** | <img src="RGB_Hercules_Globular_Cluster_M13.png" width="220"> |
-| **Lagoon Nebula (M8)** | <img src="RGB_Lagoon_Nebula_M8.png" width="220"> | **Orion Nebula (M42)** | <img src="RGB_Orion_Nebula_M42.png" width="220"> |
-| **Pleiades (M45)** | <img src="RGB_Pleiades_M45.png" width="220"> | **Ring Nebula (M57)** | <img src="RGB_Ring_Nebula_M57.png" width="220"> |
-| **Sombrero Galaxy (M104)** | <img src="RGB_Sombrero_Galaxy_M104.png" width="220"> | **Triangulum Galaxy (M33)** | <img src="RGB_Triangulum_Galaxy_M33.png" width="220"> |
-| **Trifid Nebula (M20)** | <img src="RGB_Trifid_Nebula_M20.png" width="220"> | **Veil Nebula (NGC 6992)** | <img src="RGB_Veil_Nebula_NGC_6992.png" width="220"> |
-| **Whirlpool Galaxy (M51)** | <img src="RGB_Whirlpool_Galaxy_M51.png" width="220"> | | |
+| **Andromeda Galaxy (M31)** | <img src="images/RGB_Andromeda_Galaxy_M31.png" width="220"> | **Bode's Galaxy (M81)** | <img src="images/RGB_Bode's_Galaxy_M81.png" width="220"> |
+| **Crab Nebula (M1)** | <img src="images/RGB_Crab_Nebula_M1.png" width="220"> | **Dumbbell Nebula (M27)** | <img src="images/RGB_Dumbbell_Nebula_M27.png" width="220"> |
+| **Globular Cluster M15** | <img src="images/RGB_Globular_Cluster_M15.png" width="220"> | **Hercules Cluster (M13)** | <img src="images/RGB_Hercules_Globular_Cluster_M13.png" width="220"> |
+| **Lagoon Nebula (M8)** | <img src="images/RGB_Lagoon_Nebula_M8.png" width="220"> | **Orion Nebula (M42)** | <img src="images/RGB_Orion_Nebula_M42.png" width="220"> |
+| **Pleiades (M45)** | <img src="images/RGB_Pleiades_M45.png" width="220"> | **Ring Nebula (M57)** | <img src="images/RGB_Ring_Nebula_M57.png" width="220"> |
+| **Sombrero Galaxy (M104)** | <img src="images/RGB_Sombrero_Galaxy_M104.png" width="220"> | **Triangulum Galaxy (M33)** | <img src="images/RGB_Triangulum_Galaxy_M33.png" width="220"> |
+| **Trifid Nebula (M20)** | <img src="images/RGB_Trifid_Nebula_M20.png" width="220"> | **Veil Nebula (NGC 6992)** | <img src="images/RGB_Veil_Nebula_NGC_6992.png" width="220"> |
+| **Whirlpool Galaxy (M51)** | <img src="images/RGB_Whirlpool_Galaxy_M51.png" width="220"> | | |
 
 ---
 
